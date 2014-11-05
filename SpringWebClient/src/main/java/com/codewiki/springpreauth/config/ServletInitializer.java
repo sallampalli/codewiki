@@ -1,4 +1,4 @@
-package springweb;
+package com.codewiki.springpreauth.config;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
